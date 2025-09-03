@@ -1,0 +1,15 @@
+<svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Logo Distributor Susu Anak Kambing">
+  <!-- Lingkaran latar belakang hijau -->
+  <circle cx="75" cy="75" r="70" fill="#7BB661" />
+  
+  <!-- Siluet anak kambing putih -->
+  <path d="M60 110 Q55 90 70 80 Q75 70 80 80 Q95 90 90 110 Z" fill="#FFFFFF" />
+  
+  <!-- Tetesan susu -->
+  <ellipse cx="75" cy="120" rx="10" ry="15" fill="#FFFFFF" opacity="0.8" />
+  
+  <!-- Tulisan nama perusahaan -->
+  <text x="75" y="145" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF" text-anchor="middle" font-weight="bold">
+    Susu Kambing
+  </text>
+</svg>
